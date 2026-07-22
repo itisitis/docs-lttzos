@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-42czxg.theriverbedandbreakfast.com.au/sitemap.xml
